@@ -14,6 +14,7 @@ while ans:
 	
 	answers = random.randint(1,20) #assigns the variable answers a random integer value between 1 and 8
 	
+	#Begins the if - else if sequence. This could definitely be done another way!  
 	if question =="":
 		sys.exit()
 	
