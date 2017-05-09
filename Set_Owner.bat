@@ -9,7 +9,7 @@ goto admin
     ) 
 	else (
         echo Script wasn't launched as administrator. Please re-run with elevated permissions.
-		PAUSE
+		pause
 		goto:eof
     )
 
