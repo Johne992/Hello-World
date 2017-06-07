@@ -1,0 +1,1 @@
+Wake On Lan for pcs. It should list IP address, mac and hostname as well as current status
